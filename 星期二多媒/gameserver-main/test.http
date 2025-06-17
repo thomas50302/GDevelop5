@@ -1,0 +1,7 @@
+post http://127.0.0.1/postscore HTTP/1.1
+Content-Type: application/json
+
+{
+  "name": "md",
+  "score": 1000
+}
