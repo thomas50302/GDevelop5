@@ -1061,6 +1061,11 @@
               "value": 0
             }
           ]
+        },
+        {
+          "name": "response",
+          "type": "string",
+          "value": "\"\""
         }
       ],
       "instances": [
@@ -2119,14 +2124,13 @@
             },
             {
               "type": {
-                "await": true,
                 "value": "SendAsyncRequest"
               },
               "parameters": [
                 "\"http://127.0.0.1/rank\"",
                 "\"\"",
                 "\"GET\"",
-                "\"application/json\"",
+                "\"\"",
                 "rank2",
                 ""
               ]
@@ -2153,7 +2157,7 @@
                     "value": "JSONToVariableStructure2"
                   },
                   "parameters": [
-                    "VariableString(rank2)",
+                    "\"rank2\"",
                     "rank2"
                   ]
                 },
@@ -2165,7 +2169,7 @@
                     "Rank1Text",
                     "Text",
                     "=",
-                    "VariableString(rank2[0].name) + \"：\" + ToString(rank2[0].score)"
+                    " VariableString(rank2[0].name) + \"：\" + ToString(rank2[0].score)"
                   ]
                 },
                 {
@@ -2176,7 +2180,7 @@
                     "Rank2Text",
                     "Text",
                     "=",
-                    "VariableString(rank2[1].name) + \"：\" + ToString(rank2[1].score)"
+                    "ToString(rank2[0].name) + \":\" + ToString(rank2[0].score)"
                   ]
                 },
                 {
@@ -2187,7 +2191,7 @@
                     "Rank3Text",
                     "Text",
                     "=",
-                    "VariableString(rank2[2].name) + \"：\" + ToString(rank2[2].score)"
+                    "ToString(rank2[0].name) + \":\" + ToString(rank2[0].score)"
                   ]
                 }
               ]
@@ -2238,6 +2242,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -2298,7 +2307,7 @@
           "isLocked": false,
           "name": "Layer",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
@@ -7213,11 +7222,13 @@
           "conditions": [
             {
               "type": {
-                "value": "KeyFromTextPressed"
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
               },
               "parameters": [
                 "Boss",
-                "\"g\""
+                "Animation",
+                "=",
+                "\"die\""
               ]
             },
             {
