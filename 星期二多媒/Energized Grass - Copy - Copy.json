@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 99,
-    "major": 4,
-    "minor": 0,
+    "build": 231,
+    "major": 5,
+    "minor": 5,
     "revision": 0
   },
   "properties": {
@@ -18,7 +18,6 @@
     "scaleMode": "linear",
     "sizeOnStartupMode": "",
     "templateSlug": "starting-platformer",
-    "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Energized Grass - Copy - Copy",
     "description": "",
@@ -93,7 +92,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "assets/StartingPlayer4.png",
         "kind": "image",
         "metadata": "",
@@ -102,7 +100,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/StartingGround4.png",
         "kind": "image",
         "metadata": "",
@@ -111,7 +108,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Background6.png",
         "kind": "image",
         "metadata": "",
@@ -120,7 +116,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/StartingCoin4.png",
         "kind": "image",
         "metadata": "",
@@ -129,7 +124,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Top arrow button4.png",
         "kind": "image",
         "metadata": "",
@@ -142,7 +136,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat dark joystick border4.png",
         "kind": "image",
         "metadata": "",
@@ -155,7 +148,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat dark joystick thumb4.png",
         "kind": "image",
         "metadata": "",
@@ -178,7 +170,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_malePerson_run03.png",
         "kind": "image",
         "metadata": "",
@@ -187,7 +178,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_malePerson_run5.png",
         "kind": "image",
         "metadata": "",
@@ -196,7 +186,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_malePerson_run6.png",
         "kind": "image",
         "metadata": "",
@@ -205,7 +194,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_hold3.png",
         "kind": "image",
         "metadata": "",
@@ -214,7 +202,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_idle5.png",
         "kind": "image",
         "metadata": "",
@@ -223,7 +210,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run05.png",
         "kind": "image",
         "metadata": "",
@@ -232,7 +218,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run9.png",
         "kind": "image",
         "metadata": "",
@@ -241,7 +226,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run10.png",
         "kind": "image",
         "metadata": "",
@@ -250,7 +234,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_jump5.png",
         "kind": "image",
         "metadata": "",
@@ -259,7 +242,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack05.png",
         "kind": "image",
         "metadata": "",
@@ -268,7 +250,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack9.png",
         "kind": "image",
         "metadata": "",
@@ -277,7 +258,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack10.png",
         "kind": "image",
         "metadata": "",
@@ -286,7 +266,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attackKick5.png",
         "kind": "image",
         "metadata": "",
@@ -295,7 +274,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "岩漿.jpg",
         "kind": "image",
         "metadata": "",
@@ -304,7 +282,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Preview_KenneyNL3.png",
         "kind": "image",
         "metadata": "",
@@ -313,7 +290,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_41.png",
         "kind": "image",
         "metadata": "",
@@ -326,7 +302,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_42.png",
         "kind": "image",
         "metadata": "",
@@ -339,7 +314,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_43.png",
         "kind": "image",
         "metadata": "",
@@ -352,7 +326,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_44.png",
         "kind": "image",
         "metadata": "",
@@ -365,7 +338,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_45.png",
         "kind": "image",
         "metadata": "",
@@ -378,7 +350,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_46.png",
         "kind": "image",
         "metadata": "",
@@ -391,7 +362,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_47.png",
         "kind": "image",
         "metadata": "",
@@ -404,7 +374,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_48.png",
         "kind": "image",
         "metadata": "",
@@ -417,7 +386,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_49.png",
         "kind": "image",
         "metadata": "",
@@ -426,7 +394,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_50.png",
         "kind": "image",
         "metadata": "",
@@ -435,7 +402,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_51.png",
         "kind": "image",
         "metadata": "",
@@ -444,7 +410,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_52.png",
         "kind": "image",
         "metadata": "",
@@ -453,7 +418,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_53.png",
         "kind": "image",
         "metadata": "",
@@ -462,7 +426,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_54.png",
         "kind": "image",
         "metadata": "",
@@ -471,7 +434,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_55.png",
         "kind": "image",
         "metadata": "",
@@ -480,7 +442,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Heart_56.png",
         "kind": "image",
         "metadata": "",
@@ -489,7 +450,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Heart Empty6.png",
         "kind": "image",
         "metadata": "",
@@ -502,7 +462,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Heart Filled6.png",
         "kind": "image",
         "metadata": "",
@@ -515,7 +474,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk03.png",
         "kind": "image",
         "metadata": "",
@@ -524,7 +482,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk15.png",
         "kind": "image",
         "metadata": "",
@@ -533,7 +490,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk16.png",
         "kind": "image",
         "metadata": "",
@@ -542,7 +498,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk17.png",
         "kind": "image",
         "metadata": "",
@@ -551,7 +506,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk18.png",
         "kind": "image",
         "metadata": "",
@@ -560,7 +514,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk19.png",
         "kind": "image",
         "metadata": "",
@@ -569,7 +522,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk20.png",
         "kind": "image",
         "metadata": "",
@@ -578,7 +530,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_walk21.png",
         "kind": "image",
         "metadata": "",
@@ -587,7 +538,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_attack03.png",
         "kind": "image",
         "metadata": "",
@@ -596,7 +546,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_attack5.png",
         "kind": "image",
         "metadata": "",
@@ -605,7 +554,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_attack6.png",
         "kind": "image",
         "metadata": "",
@@ -614,7 +562,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_down3.png",
         "kind": "image",
         "metadata": "",
@@ -623,7 +570,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk03.png",
         "kind": "image",
         "metadata": "",
@@ -632,7 +578,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk15.png",
         "kind": "image",
         "metadata": "",
@@ -641,7 +586,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk16.png",
         "kind": "image",
         "metadata": "",
@@ -650,7 +594,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk17.png",
         "kind": "image",
         "metadata": "",
@@ -659,7 +602,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk18.png",
         "kind": "image",
         "metadata": "",
@@ -668,7 +610,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk19.png",
         "kind": "image",
         "metadata": "",
@@ -677,7 +618,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk20.png",
         "kind": "image",
         "metadata": "",
@@ -686,7 +626,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_walk21.png",
         "kind": "image",
         "metadata": "",
@@ -695,7 +634,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_attack03.png",
         "kind": "image",
         "metadata": "",
@@ -704,7 +642,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_attack5.png",
         "kind": "image",
         "metadata": "",
@@ -713,7 +650,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_attack6.png",
         "kind": "image",
         "metadata": "",
@@ -722,7 +658,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_zombie_down3.png",
         "kind": "image",
         "metadata": "",
@@ -731,7 +666,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tile_13.png",
         "kind": "image",
         "metadata": "",
@@ -740,7 +674,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attackKick6.png",
         "kind": "image",
         "metadata": "",
@@ -749,7 +682,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_shove3.png",
         "kind": "image",
         "metadata": "",
@@ -758,7 +690,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_slide3.png",
         "kind": "image",
         "metadata": "",
@@ -767,7 +698,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/岩漿3.png",
         "kind": "image",
         "metadata": "",
@@ -776,7 +706,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/liquidLava3.png",
         "kind": "image",
         "metadata": "",
@@ -785,7 +714,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/liquidLavaTop_mid3.png",
         "kind": "image",
         "metadata": "",
@@ -794,7 +722,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/liquidLavaTop3.png",
         "kind": "image",
         "metadata": "",
@@ -803,7 +730,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tile_9.png",
         "kind": "image",
         "metadata": "",
@@ -812,7 +738,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Background7.png",
         "kind": "image",
         "metadata": "",
@@ -821,7 +746,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Heart Filled7.png",
         "kind": "image",
         "metadata": "",
@@ -830,7 +754,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Heart Empty7.png",
         "kind": "image",
         "metadata": "",
@@ -839,7 +762,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_down3.png",
         "kind": "image",
         "metadata": "",
@@ -848,7 +770,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_down_resized3.png",
         "kind": "image",
         "metadata": "",
@@ -857,7 +778,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_down_scaled_to_match_run3.png",
         "kind": "image",
         "metadata": "",
@@ -866,7 +786,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack11.png",
         "kind": "image",
         "metadata": "",
@@ -875,7 +794,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack06.png",
         "kind": "image",
         "metadata": "",
@@ -884,7 +802,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_attack12.png",
         "kind": "image",
         "metadata": "",
@@ -893,7 +810,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_idle6.png",
         "kind": "image",
         "metadata": "",
@@ -902,7 +818,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run06.png",
         "kind": "image",
         "metadata": "",
@@ -911,7 +826,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run11.png",
         "kind": "image",
         "metadata": "",
@@ -920,7 +834,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_run12.png",
         "kind": "image",
         "metadata": "",
@@ -929,7 +842,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_maleAdventurer_jump6.png",
         "kind": "image",
         "metadata": "",
@@ -938,7 +850,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tile_10.png",
         "kind": "image",
         "metadata": "",
@@ -947,7 +858,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tile_14.png",
         "kind": "image",
         "metadata": "",
@@ -956,7 +866,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tile_15.png",
         "kind": "image",
         "metadata": "",
@@ -965,7 +874,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/weapon5.png",
         "kind": "image",
         "metadata": "",
@@ -974,7 +882,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/weapon6.png",
         "kind": "image",
         "metadata": "",
@@ -983,7 +890,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/weapon1 (1)3.png",
         "kind": "image",
         "metadata": "",
@@ -992,7 +898,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet9.png",
         "kind": "image",
         "metadata": "",
@@ -1005,7 +910,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet 6_flying4.png",
         "kind": "image",
         "metadata": "",
@@ -1018,7 +922,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/character_robot_hold3.png",
         "kind": "image",
         "metadata": "",
@@ -1027,7 +930,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet6.png",
         "kind": "image",
         "metadata": "",
@@ -1040,7 +942,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet 3_flying4.png",
         "kind": "image",
         "metadata": "",
@@ -1053,7 +954,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Droid 3 Bullet_13.png",
         "kind": "image",
         "metadata": "",
@@ -1066,7 +966,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Droid 3 Bullet_14.png",
         "kind": "image",
         "metadata": "",
@@ -1079,7 +978,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Droid 3 Bullet_15.png",
         "kind": "image",
         "metadata": "",
@@ -1099,7 +997,29 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "GameData",
+      "type": "structure",
+      "children": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "md"
+        },
+        {
+          "name": "score",
+          "type": "number",
+          "value": 0
+        }
+      ]
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -1121,11 +1041,28 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.49508400737488867,
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "rank2",
+          "type": "structure",
+          "children": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "md"
+            },
+            {
+              "name": "score",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -1170,8 +1107,8 @@
           "name": "NewText2",
           "persistentUuid": "da7190fb-8aa5-4033-931d-999e471d3aa9",
           "width": 0,
-          "x": 564,
-          "y": 361,
+          "x": 555,
+          "y": 417,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1186,9 +1123,124 @@
           "name": "NewText3",
           "persistentUuid": "d4981392-2f30-4cbf-9a37-19e62a02ded6",
           "width": 0,
-          "x": 568,
-          "y": 489,
+          "x": 559,
+          "y": 599,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NameInput",
+          "persistentUuid": "86d8e8b6-6e6d-4cff-b28b-2faf6e113887",
+          "width": 344,
+          "x": 458,
+          "y": 337,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 76,
+          "keepRatio": true,
+          "layer": "",
+          "name": "排行榜",
+          "persistentUuid": "950e4d49-f869-46d6-983b-be6204ef2ad0",
+          "width": 292,
+          "x": 514,
+          "y": 500,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "Rank1Text",
+          "persistentUuid": "6cdd8830-7f9b-4622-8b05-4a8881c0fe43",
+          "width": 0,
+          "x": 447,
+          "y": 137,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "Rank2Text",
+          "persistentUuid": "028c9080-9821-4e25-80df-644a9341c2e5",
+          "width": 0,
+          "x": 450,
+          "y": 273,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "Rank3Text",
+          "persistentUuid": "7c77d6bd-cde9-435d-a471-417877d64cae",
+          "width": 0,
+          "x": 450,
+          "y": 411,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 719,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "Background",
+          "persistentUuid": "463cdba3-fb8c-4baf-be2b-5d274862cdf5",
+          "width": 1280,
+          "x": 0,
+          "y": 2,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Layer",
+          "name": "返回",
+          "persistentUuid": "5ffa4f1f-b9fe-46e1-bcc0-78786aa04471",
+          "width": 0,
+          "x": 587,
+          "y": 559,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1336,6 +1388,7 @@
             "text": "跑酷遊戲",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 128,
             "color": "0;0;0"
           }
@@ -1388,6 +1441,7 @@
             "text": "開始",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "245;239;239"
           }
@@ -1440,8 +1494,358 @@
             "text": "退出",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "245;239;239"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "NewText4",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "請輸入你的暱稱",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 48,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "請輸入你的暱稱",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 48,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "NameInput",
+          "type": "TextInput::TextInputObject",
+          "variables": [
+            {
+              "name": "Name",
+              "type": "string",
+              "value": "0"
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "initialValue": "",
+            "placeholder": "請輸入你的暱稱",
+            "fontResourceName": "",
+            "fontSize": 48,
+            "inputType": "text",
+            "textColor": "0;0;0",
+            "fillColor": "255;255;255",
+            "fillOpacity": 255,
+            "borderColor": "255;255;255",
+            "borderOpacity": 255,
+            "borderWidth": 1,
+            "readOnly": false,
+            "disabled": false,
+            "paddingX": 2,
+            "paddingY": 1,
+            "textAlign": "left",
+            "maxLength": "10"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "DebugName",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 36,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 36,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "排行榜",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "string": "排行榜",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 72,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "排行榜",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 72,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Rank1Text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Rank1Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 72,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Rank1Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 72,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Rank2Text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Rank2Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 72,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Rank2Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 72,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Rank3Text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Rank3Text",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 72,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Rank3Text",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 72,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "返回",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "string": "返回",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 48,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "返回",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 48,
+            "color": "255;255;255"
           }
         }
       ],
@@ -1458,7 +1862,25 @@
             "objectName": "Background2"
           },
           {
+            "objectName": "NameInput"
+          },
+          {
+            "objectName": "DebugName"
+          },
+          {
             "objectName": "NewText"
+          },
+          {
+            "objectName": "Rank1Text"
+          },
+          {
+            "objectName": "Rank2Text"
+          },
+          {
+            "objectName": "Rank3Text"
+          },
+          {
+            "objectName": "返回"
           },
           {
             "objectName": "NewTiledSprite"
@@ -1471,10 +1893,80 @@
           },
           {
             "objectName": "NewText3"
+          },
+          {
+            "objectName": "NewText4"
+          },
+          {
+            "objectName": "排行榜"
           }
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "NewText2",
+                "ButtonFSM",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "NewText3",
+                "ButtonFSM",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "排行榜",
+                "ButtonFSM",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "返回",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Layer\""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -1492,12 +1984,32 @@
           "actions": [
             {
               "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "GameData.name",
+                "=",
+                "NameInput.Text::Value()"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
                 "",
                 "\"Game Scene\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "NewText2",
+                "ButtonFSM",
+                "no"
               ]
             }
           ]
@@ -1532,6 +2044,197 @@
               },
               "parameters": [
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "NewText2",
+                "ButtonFSM",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "排行榜",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Layer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "排行榜",
+                "ButtonFSM",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "返回",
+                "ButtonFSM",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "await": true,
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"http://127.0.0.1/rank\"",
+                "\"\"",
+                "\"GET\"",
+                "\"application/json\"",
+                "rank2",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "StringVariable"
+                  },
+                  "parameters": [
+                    "rank2",
+                    "!=",
+                    "\"\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "JSONToVariableStructure2"
+                  },
+                  "parameters": [
+                    "VariableString(rank2)",
+                    "rank2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Rank1Text",
+                    "Text",
+                    "=",
+                    "VariableString(rank2[0].name) + \"：\" + ToString(rank2[0].score)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Rank2Text",
+                    "Text",
+                    "=",
+                    "VariableString(rank2[1].name) + \"：\" + ToString(rank2[1].score)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Rank3Text",
+                    "Text",
+                    "=",
+                    "VariableString(rank2[2].name) + \"：\" + ToString(rank2[2].score)"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsPressed"
+              },
+              "parameters": [
+                "返回",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Layer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "排行榜",
+                "ButtonFSM",
+                "yes"
               ]
             }
           ]
@@ -1595,40 +2298,7 @@
           "isLocked": false,
           "name": "Layer",
           "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": [
-            {
-              "effectType": "Scene3D::HemisphereLight",
-              "name": "3D Light",
-              "doubleParameters": {
-                "elevation": 45,
-                "intensity": 1,
-                "rotation": 0
-              },
-              "stringParameters": {
-                "groundColor": "64;64;64",
-                "skyColor": "255;255;255",
-                "top": "Y-"
-              },
-              "booleanParameters": {}
-            }
-          ]
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Layer2",
-          "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -1766,6 +2436,22 @@
           "name": "timer",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "rank",
+          "type": "structure",
+          "children": [
+            {
+              "name": "name",
+              "type": "string",
+              "value": "md"
+            },
+            {
+              "name": "score",
+              "type": "number",
+              "value": 0
+            }
+          ]
         }
       ],
       "instances": [
@@ -3362,6 +4048,7 @@
           "assetStoreId": "e71bd69f896d6c7531b48c65ceb5da25071d4fbdeb518aeceecba8d21f34ed8d",
           "name": "Joystick",
           "type": "SpriteMultitouchJoystick::SpriteMultitouchJoystick",
+          "variant": "",
           "variables": [],
           "effects": [],
           "behaviors": [],
@@ -5370,6 +6057,7 @@
             "text": "末日機器人",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 48,
             "color": "250;250;250"
           }
@@ -5428,6 +6116,7 @@
             "text": "0",
             "font": "",
             "textAlignment": "center",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "248;244;244"
           }
@@ -5469,6 +6158,7 @@
             "text": "X",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 48,
             "color": "250;250;250"
           }
@@ -5726,6 +6416,7 @@
             "text": "Text",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 20,
             "color": "0;0;0"
           }
@@ -6111,6 +6802,7 @@
             "text": "LOSE",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 128,
             "color": "247;2;2"
           }
@@ -6163,6 +6855,7 @@
             "text": "重新開始",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "247;242;242"
           }
@@ -6215,6 +6908,7 @@
             "text": "退出",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "247;242;242"
           }
@@ -6256,6 +6950,7 @@
             "text": "A鍵 攻擊\n空白跳躍\n左右 左右移動\n擊殺越多殭屍就越強 加油!",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 36,
             "color": "255;255;255"
           }
@@ -6297,6 +6992,7 @@
             "text": "0",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 72,
             "color": "0;0;0"
           }
@@ -6482,6 +7178,67 @@
                 "Text",
                 "=",
                 "ToString(round(Variable(timer)))"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "GameData.score",
+                "=",
+                "round((Variable(timer) + TimeDelta()) * 100) / 100\n"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "GameData.name",
+                "=",
+                "GlobalVariableString(GameData.name)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "Boss",
+                "\"g\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"http://127.0.0.1/postscore\"",
+                "ToJSON(GameData)",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
               ]
             }
           ]
@@ -8251,6 +9008,7 @@
             "text": "LOSE",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 128,
             "color": "247;2;2"
           }
@@ -8303,6 +9061,7 @@
             "text": "重新開始",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "247;242;242"
           }
@@ -8355,6 +9114,7 @@
             "text": "退出",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "247;242;242"
           }
@@ -8630,6 +9390,7 @@
             "text": "WIN",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 128,
             "color": "234;245;12"
           }
@@ -8682,6 +9443,7 @@
             "text": "退出",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 64,
             "color": "247;240;240"
           }
@@ -8818,6 +9580,7 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Button states and effects",
+      "gdevelopVersion": "",
       "helpPath": "/objects/button",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWdlc3R1cmUtdGFwLWJ1dHRvbiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMyA1QzE1LjIxIDUgMTcgNi43OSAxNyA5QzE3IDEwLjUgMTYuMiAxMS43NyAxNSAxMi40NlYxMS4yNEMxNS42MSAxMC42OSAxNiA5Ljg5IDE2IDlDMTYgNy4zNCAxNC42NiA2IDEzIDZTMTAgNy4zNCAxMCA5QzEwIDkuODkgMTAuMzkgMTAuNjkgMTEgMTEuMjRWMTIuNDZDOS44IDExLjc3IDkgMTAuNSA5IDlDOSA2Ljc5IDEwLjc5IDUgMTMgNU0yMCAyMC41QzE5Ljk3IDIxLjMyIDE5LjMyIDIxLjk3IDE4LjUgMjJIMTNDMTIuNjIgMjIgMTIuMjYgMjEuODUgMTIgMjEuNTdMOCAxNy4zN0w4Ljc0IDE2LjZDOC45MyAxNi4zOSA5LjIgMTYuMjggOS41IDE2LjI4SDkuN0wxMiAxOFY5QzEyIDguNDUgMTIuNDUgOCAxMyA4UzE0IDguNDUgMTQgOVYxMy40N0wxNS4yMSAxMy42TDE5LjE1IDE1Ljc5QzE5LjY4IDE2LjAzIDIwIDE2LjU2IDIwIDE3LjE0VjIwLjVNMjAgMkg0QzIuOSAyIDIgMi45IDIgNFYxMkMyIDEzLjExIDIuOSAxNCA0IDE0SDhWMTJMNCAxMkw0IDRIMjBMMjAgMTJIMThWMTRIMjBWMTMuOTZMMjAuMDQgMTRDMjEuMTMgMTQgMjIgMTMuMDkgMjIgMTJWNEMyMiAyLjkgMjEuMTEgMiAyMCAyWiIgLz48L3N2Zz4=",
       "name": "ButtonStates",
@@ -8852,6 +9615,8 @@
         "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -14956,6 +15721,7 @@
       "category": "Input",
       "extensionNamespace": "",
       "fullName": "Multitouch joystick and buttons (sprite)",
+      "gdevelopVersion": "",
       "helpPath": "/objects/multitouch-joystick",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPGNpcmNsZSBjbGFzcz0ic3QwIiBjeD0iMTYiIGN5PSIxNiIgcj0iMTMiLz4NCjxwb2x5bGluZSBjbGFzcz0ic3QwIiBwb2ludHM9IjI4LjQsMTIgMjAsMTIgMjAsMy42ICIvPg0KPHBvbHlsaW5lIGNsYXNzPSJzdDAiIHBvaW50cz0iMjAsMjguNCAyMCwyMCAyOC40LDIwICIvPg0KPHBvbHlsaW5lIGNsYXNzPSJzdDAiIHBvaW50cz0iMy42LDIwIDEyLDIwIDEyLDI4LjQgIi8+DQo8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIxMiwzLjYgMTIsMTIgMy42LDEyICIvPg0KPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIxNiw2IDE2LjcsNyAxNS4zLDcgIi8+DQo8cG9seWdvbiBjbGFzcz0ic3QwIiBwb2ludHM9IjE2LDI2IDE1LjMsMjUgMTYuNywyNSAiLz4NCjxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNiwxNiA3LDE1LjMgNywxNi43ICIvPg0KPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIyNiwxNiAyNSwxNi43IDI1LDE1LjMgIi8+DQo8L3N2Zz4NCg==",
       "name": "SpriteMultitouchJoystick",
@@ -14995,6 +15761,8 @@
         "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [
         {
           "description": "Check if a button is pressed on a gamepad.",
@@ -18645,10 +19413,121 @@
       ],
       "eventsBasedObjects": [
         {
+          "areaMaxX": 64,
+          "areaMaxY": 64,
+          "areaMaxZ": 64,
+          "areaMinX": 0,
+          "areaMinY": 0,
+          "areaMinZ": 0,
           "defaultName": "Joystick",
           "description": "Joystick for touchscreens.",
           "fullName": "Multitouch Joystick",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "SpriteMultitouchJoystick",
+          "objects": [
+            {
+              "adaptCollisionMaskAutomatically": false,
+              "assetStoreId": "",
+              "name": "Thumb",
+              "type": "Sprite",
+              "updateIfNotVisible": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [],
+              "animations": [
+                {
+                  "name": "Idle",
+                  "useMultipleDirections": false,
+                  "directions": [
+                    {
+                      "looping": false,
+                      "timeBetweenFrames": 0.08,
+                      "sprites": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "adaptCollisionMaskAutomatically": false,
+              "assetStoreId": "",
+              "name": "Border",
+              "type": "Sprite",
+              "updateIfNotVisible": false,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "MultitouchJoystick",
+                  "type": "SpriteMultitouchJoystick::MultitouchJoystick",
+                  "ControllerIdentifier": 1,
+                  "JoystickIdentifier": "Primary",
+                  "FloatingEnabled": false,
+                  "DeadZoneRadius": 0.4,
+                  "JoystickAngle": 0,
+                  "JoystickForce": 0,
+                  "TouchId": 0,
+                  "TouchIndex": 0
+                }
+              ],
+              "animations": [
+                {
+                  "name": "Idle",
+                  "useMultipleDirections": false,
+                  "directions": [
+                    {
+                      "looping": false,
+                      "timeBetweenFrames": 0.08,
+                      "sprites": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "Thumb"
+              },
+              {
+                "objectName": "Border"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [],
           "eventsFunctions": [
             {
               "fullName": "",
@@ -19608,78 +20487,7 @@
               "name": "ParentOrigin"
             }
           ],
-          "objects": [
-            {
-              "adaptCollisionMaskAutomatically": false,
-              "assetStoreId": "",
-              "name": "Thumb",
-              "type": "Sprite",
-              "updateIfNotVisible": false,
-              "variables": [],
-              "effects": [],
-              "behaviors": [],
-              "animations": [
-                {
-                  "name": "Idle",
-                  "useMultipleDirections": false,
-                  "directions": [
-                    {
-                      "looping": false,
-                      "timeBetweenFrames": 0.08,
-                      "sprites": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "adaptCollisionMaskAutomatically": false,
-              "assetStoreId": "",
-              "name": "Border",
-              "type": "Sprite",
-              "updateIfNotVisible": false,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "MultitouchJoystick",
-                  "type": "SpriteMultitouchJoystick::MultitouchJoystick",
-                  "ControllerIdentifier": 1,
-                  "JoystickIdentifier": "Primary",
-                  "FloatingEnabled": false,
-                  "DeadZoneRadius": 0.4,
-                  "JoystickAngle": 0,
-                  "JoystickForce": 0,
-                  "TouchId": 0,
-                  "TouchIndex": 0
-                }
-              ],
-              "animations": [
-                {
-                  "name": "Idle",
-                  "useMultipleDirections": false,
-                  "directions": [
-                    {
-                      "looping": false,
-                      "timeBetweenFrames": 0.08,
-                      "sprites": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "objectsFolderStructure": {
-            "folderName": "__ROOT",
-            "children": [
-              {
-                "objectName": "Thumb"
-              },
-              {
-                "objectName": "Border"
-              }
-            ]
-          }
+          "variants": []
         }
       ]
     },
@@ -19688,6 +20496,7 @@
       "category": "Camera",
       "extensionNamespace": "",
       "fullName": "Smooth Camera",
+      "gdevelopVersion": "",
       "helpPath": "/tutorials/follow-player-with-camera/",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQoJLnN0MXtmaWxsOm5vbmU7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjI7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjQsMTNoLTZjLTEuMSwwLTItMC45LTItMlY1YzAtMS4xLDAuOS0yLDItMmg2YzEuMSwwLDIsMC45LDIsMnY2QzI2LDEyLjEsMjUuMSwxMywyNCwxM3oiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNiw4djEwYzAsMS4xLTAuOSwyLTIsMkg4Yy0xLjEsMC0yLTAuOS0yLTJWOGMwLTEuMSwwLjktMiwyLTJoOCIvPg0KPGNpcmNsZSBjbGFzcz0ic3QwIiBjeD0iMjEiIGN5PSI4IiByPSIyIi8+DQo8Y2lyY2xlIGNsYXNzPSJzdDAiIGN4PSIxMSIgY3k9IjE2IiByPSIxIi8+DQo8cmVjdCB4PSI5IiB5PSI5IiBjbGFzcz0ic3QwIiB3aWR0aD0iNCIgaGVpZ2h0PSIzIi8+DQo8cG9seWxpbmUgY2xhc3M9InN0MCIgcG9pbnRzPSIyMSwyOSAyMSwyOSAxMSwyOSAxMSwyOSAiLz4NCjxwb2x5bGluZSBjbGFzcz0ic3QwIiBwb2ludHM9IjE4LDIwIDE4LDI5IDE0LDI5IDE0LDIwICIvPg0KPHJlY3QgeD0iNyIgeT0iMyIgY2xhc3M9InN0MCIgd2lkdGg9IjQiIGhlaWdodD0iMyIvPg0KPC9zdmc+DQo=",
       "name": "SmoothCamera",
@@ -19721,6 +20530,8 @@
         "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -25074,6 +25885,7 @@
       "category": "Input",
       "extensionNamespace": "",
       "fullName": "Gamepads (controllers)",
+      "gdevelopVersion": "",
       "helpPath": "/all-features/gamepad",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWdhbWVwYWQtdmFyaWFudC1vdXRsaW5lIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTYsOUg4VjExSDEwVjEzSDhWMTVINlYxM0g0VjExSDZWOU0xOC41LDlBMS41LDEuNSAwIDAsMSAyMCwxMC41QTEuNSwxLjUgMCAwLDEgMTguNSwxMkExLjUsMS41IDAgMCwxIDE3LDEwLjVBMS41LDEuNSAwIDAsMSAxOC41LDlNMTUuNSwxMkExLjUsMS41IDAgMCwxIDE3LDEzLjVBMS41LDEuNSAwIDAsMSAxNS41LDE1QTEuNSwxLjUgMCAwLDEgMTQsMTMuNUExLjUsMS41IDAgMCwxIDE1LjUsMTJNMTcsNUE3LDcgMCAwLDEgMjQsMTJBNyw3IDAgMCwxIDE3LDE5QzE1LjA0LDE5IDEzLjI3LDE4LjIgMTIsMTYuOUMxMC43MywxOC4yIDguOTYsMTkgNywxOUE3LDcgMCAwLDEgMCwxMkE3LDcgMCAwLDEgNyw1SDE3TTcsN0E1LDUgMCAwLDAgMiwxMkE1LDUgMCAwLDAgNywxN0M4LjY0LDE3IDEwLjA5LDE2LjIxIDExLDE1SDEzQzEzLjkxLDE2LjIxIDE1LjM2LDE3IDE3LDE3QTUsNSAwIDAsMCAyMiwxMkE1LDUgMCAwLDAgMTcsN0g3WiIgLz48L3N2Zz4=",
       "name": "Gamepads",
@@ -25114,6 +25926,8 @@
         "mnImQKdn8nQxwzkS5D6a1JB27V23"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [
         {
           "fullName": "",
@@ -30519,6 +31333,7 @@
       "category": "Movement",
       "extensionNamespace": "",
       "fullName": "Linear Movement",
+      "gdevelopVersion": "",
       "helpPath": "",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXJheS1zdGFydC1hcnJvdyIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMywxMkwxOSwxNlYxM0g2LjgzQzYuNDIsMTQuMTcgNS4zMSwxNSA0LDE1QTMsMyAwIDAsMSAxLDEyQTMsMyAwIDAsMSA0LDlDNS4zMSw5IDYuNDIsOS44MyA2LjgzLDExSDE5VjhMMjMsMTJaIiAvPjwvc3ZnPg==",
       "name": "LinearMovement",
@@ -30544,6 +31359,8 @@
         "dt0tRnf2kHWJnjkrpnzTzNj9Yc63"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -30684,6 +31501,7 @@
       "category": "Game mechanic",
       "extensionNamespace": "",
       "fullName": "Health points and damage",
+      "gdevelopVersion": "",
       "helpPath": "",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWhlYXJ0LWhhbGYtZnVsbCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNi41LDVDMTUsNSAxMy41OCw1LjkxIDEzLDcuMlYxNy43NEMxNy4yNSwxMy44NyAyMCwxMS4yIDIwLDguNUMyMCw2LjUgMTguNSw1IDE2LjUsNU0xNi41LDNDMTkuNTgsMyAyMiw1LjQxIDIyLDguNUMyMiwxMi4yNyAxOC42LDE1LjM2IDEzLjQ1LDIwLjAzTDEyLDIxLjM1TDEwLjU1LDIwLjAzQzUuNCwxNS4zNiAyLDEyLjI3IDIsOC41QzIsNS40MSA0LjQyLDMgNy41LDNDOS4yNCwzIDEwLjkxLDMuODEgMTIsNS4wOEMxMy4wOSwzLjgxIDE0Ljc2LDMgMTYuNSwzWiIgLz48L3N2Zz4=",
       "name": "Health",
@@ -30726,6 +31544,8 @@
         "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -35544,6 +36364,7 @@
       "category": "User interface",
       "extensionNamespace": "",
       "fullName": "Resource bar (separated units)",
+      "gdevelopVersion": "",
       "helpPath": "/objects/resource-bar",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWRvdHMtaG9yaXpvbnRhbCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xNiwxMkEyLDIgMCAwLDEgMTgsMTBBMiwyIDAgMCwxIDIwLDEyQTIsMiAwIDAsMSAxOCwxNEEyLDIgMCAwLDEgMTYsMTJNMTAsMTJBMiwyIDAgMCwxIDEyLDEwQTIsMiAwIDAsMSAxNCwxMkEyLDIgMCAwLDEgMTIsMTRBMiwyIDAgMCwxIDEwLDEyTTQsMTJBMiwyIDAgMCwxIDYsMTBBMiwyIDAgMCwxIDgsMTJBMiwyIDAgMCwxIDYsMTRBMiwyIDAgMCwxIDQsMTJaIiAvPjwvc3ZnPg==",
       "name": "TiledUnitsBar",
@@ -35575,6 +36396,8 @@
         "q8ubdigLvIRXLxsJDDTaokO41mc2"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [],
       "eventsBasedBehaviors": [
         {
@@ -36220,10 +37043,111 @@
       ],
       "eventsBasedObjects": [
         {
+          "areaMaxX": 64,
+          "areaMaxY": 64,
+          "areaMaxZ": 64,
+          "areaMinX": 0,
+          "areaMinY": 0,
+          "areaMinZ": 0,
           "defaultName": "ResourceBar",
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
           "fullName": "Resource bar (separated units)",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "TiledUnitsBar",
+          "objects": [
+            {
+              "assetStoreId": "",
+              "height": 32,
+              "name": "FillBar",
+              "texture": "",
+              "type": "TiledSpriteObject::TiledSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": [
+                {
+                  "name": "ResourceBar",
+                  "type": "TiledUnitsBar::ResourceBar",
+                  "Value": 1,
+                  "MaxValue": 3,
+                  "PreviousValue": 0
+                }
+              ]
+            },
+            {
+              "assetStoreId": "",
+              "height": 32,
+              "name": "Bar",
+              "texture": "",
+              "type": "TiledSpriteObject::TiledSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            },
+            {
+              "assetStoreId": "",
+              "bottomMargin": 0,
+              "height": 32,
+              "leftMargin": 0,
+              "name": "Background",
+              "rightMargin": 0,
+              "texture": "",
+              "tiled": true,
+              "topMargin": 0,
+              "type": "PanelSpriteObject::PanelSprite",
+              "width": 32,
+              "variables": [],
+              "effects": [],
+              "behaviors": []
+            }
+          ],
+          "objectsFolderStructure": {
+            "folderName": "__ROOT",
+            "children": [
+              {
+                "objectName": "FillBar"
+              },
+              {
+                "objectName": "Bar"
+              },
+              {
+                "objectName": "Background"
+              }
+            ]
+          },
+          "objectsGroups": [],
+          "layers": [
+            {
+              "ambientLightColorB": 200,
+              "ambientLightColorG": 200,
+              "ambientLightColorR": 200,
+              "camera3DFarPlaneDistance": 10000,
+              "camera3DFieldOfView": 45,
+              "camera3DNearPlaneDistance": 3,
+              "cameraType": "",
+              "followBaseLayerCamera": false,
+              "isLightingLayer": false,
+              "isLocked": false,
+              "name": "",
+              "renderingType": "",
+              "visibility": true,
+              "cameras": [
+                {
+                  "defaultSize": true,
+                  "defaultViewport": true,
+                  "height": 0,
+                  "viewportBottom": 1,
+                  "viewportLeft": 0,
+                  "viewportRight": 1,
+                  "viewportTop": 0,
+                  "width": 0
+                }
+              ],
+              "effects": []
+            }
+          ],
+          "instances": [],
           "eventsFunctions": [
             {
               "fullName": "",
@@ -37111,68 +38035,7 @@
               "name": "BarVerticalAnchorTarget"
             }
           ],
-          "objects": [
-            {
-              "assetStoreId": "",
-              "height": 32,
-              "name": "FillBar",
-              "texture": "",
-              "type": "TiledSpriteObject::TiledSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": [
-                {
-                  "name": "ResourceBar",
-                  "type": "TiledUnitsBar::ResourceBar",
-                  "Value": 1,
-                  "MaxValue": 3,
-                  "PreviousValue": 0
-                }
-              ]
-            },
-            {
-              "assetStoreId": "",
-              "height": 32,
-              "name": "Bar",
-              "texture": "",
-              "type": "TiledSpriteObject::TiledSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": []
-            },
-            {
-              "assetStoreId": "",
-              "bottomMargin": 0,
-              "height": 32,
-              "leftMargin": 0,
-              "name": "Background",
-              "rightMargin": 0,
-              "texture": "",
-              "tiled": true,
-              "topMargin": 0,
-              "type": "PanelSpriteObject::PanelSprite",
-              "width": 32,
-              "variables": [],
-              "effects": [],
-              "behaviors": []
-            }
-          ],
-          "objectsFolderStructure": {
-            "folderName": "__ROOT",
-            "children": [
-              {
-                "objectName": "FillBar"
-              },
-              {
-                "objectName": "Bar"
-              },
-              {
-                "objectName": "Background"
-              }
-            ]
-          }
+          "variants": []
         }
       ]
     },
@@ -37181,6 +38044,7 @@
       "category": "Input",
       "extensionNamespace": "",
       "fullName": "Back button",
+      "gdevelopVersion": "",
       "helpPath": "",
       "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWtleWJvYXJkLWJhY2tzcGFjZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0yMSwxMUg2LjgzTDEwLjQxLDcuNDFMOSw2TDMsMTJMOSwxOEwxMC40MSwxNi41OEw2LjgzLDEzSDIxVjExWiIgLz48L3N2Zz4=",
       "name": "BackButton",
@@ -37202,6 +38066,8 @@
         "ZgrsWuRTAkXgeuPV9bo0zuEcA2w1"
       ],
       "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
       "eventsFunctions": [
         {
           "fullName": "",
@@ -37315,6 +38181,1278 @@
       ],
       "eventsBasedBehaviors": [],
       "eventsBasedObjects": []
+    },
+    {
+      "author": "",
+      "category": "Input",
+      "extensionNamespace": "",
+      "fullName": "3D car keyboard mapper",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPHBhdGggZD0iTTI5LDE0aC00LjJjMC4xLTAuMywwLjItMC42LDAuMi0xYzAtMS43LTEuMy0zLTMtM0g4Yy0wLjYsMC0xLTAuNC0xLTFzMC40LTEsMS0xaDZjMS43LDAsMy0xLjMsMy0zVjJjMC0wLjYtMC40LTEtMS0xDQoJcy0xLDAuNC0xLDF2M2MwLDAuNi0wLjQsMS0xLDFIOEM2LjMsNiw1LDcuMyw1LDlzMS4zLDMsMywzaDE0YzAuNiwwLDEsMC40LDEsMXMtMC40LDEtMSwxSDNjLTAuNiwwLTEsMC40LTEsMXYxNGMwLDAuNiwwLjQsMSwxLDENCgloMjZjMC42LDAsMS0wLjQsMS0xVjE1QzMwLDE0LjQsMjkuNiwxNCwyOSwxNHogTTcsMThoMmMwLjYsMCwxLDAuNCwxLDFjMC0wLjYsMC40LTEsMS0xaDJjMC42LDAsMSwwLjQsMSwxYzAtMC42LDAuNC0xLDEtMWgyDQoJYzAuNiwwLDEsMC40LDEsMWMwLTAuNiwwLjQtMSwxLTFoMmMwLjYsMCwxLDAuNCwxLDFjMC0wLjYsMC40LTEsMS0xaDJjMC42LDAsMSwwLjQsMSwxcy0wLjQsMS0xLDFoLTJjLTAuNiwwLTEtMC40LTEtMQ0KCWMwLDAuNi0wLjQsMS0xLDFoLTJjLTAuNiwwLTEtMC40LTEtMWMwLDAuNi0wLjQsMS0xLDFoLTJjLTAuNiwwLTEtMC40LTEtMWMwLDAuNi0wLjQsMS0xLDFoLTJjLTAuNiwwLTEtMC40LTEtMWMwLDAuNi0wLjQsMS0xLDFINw0KCWMtMC42LDAtMS0wLjQtMS0xUzYuNCwxOCw3LDE4eiBNMTksMjJjMCwwLjEsMCwwLjMtMC4xLDAuNHMtMC4xLDAuMi0wLjIsMC4zYzAsMC0wLjEsMC4xLTAuMiwwLjFjMCwwLTAuMSwwLjEtMC4yLDAuMQ0KCWMtMC4xLDAtMC4xLDAtMC4yLDAuMWMtMC4xLDAtMC4xLDAtMC4yLDBjLTAuMSwwLTAuMSwwLTAuMiwwYy0wLjEsMC0wLjEsMC0wLjItMC4xYy0wLjEsMC0wLjEtMC4xLTAuMi0wLjFjMCwwLTAuMS0wLjEtMC4xLTAuMQ0KCWMtMC4xLTAuMS0wLjItMC4yLTAuMi0wLjNDMTcsMjIuMywxNywyMi4xLDE3LDIyYzAtMC4xLDAtMC4zLDAuMS0wLjRjMC0wLjEsMC4xLTAuMiwwLjItMC4zYzAsMCwwLjEtMC4xLDAuMS0wLjENCgljMC4xLDAsMC4xLTAuMSwwLjItMC4xYzAuMSwwLDAuMSwwLDAuMi0wLjFjMC4xLDAsMC4zLDAsMC40LDBjMC4xLDAsMC4xLDAsMC4yLDAuMWMwLjEsMCwwLjEsMC4xLDAuMiwwLjFjMC4xLDAsMC4xLDAuMSwwLjIsMC4xDQoJYzAuMSwwLjEsMC4yLDAuMiwwLjIsMC4zQzE5LDIxLjcsMTksMjEuOSwxOSwyMnogTTE1LDIyYzAsMC4xLDAsMC4zLTAuMSwwLjRzLTAuMSwwLjItMC4yLDAuM2MwLDAtMC4xLDAuMS0wLjIsMC4xDQoJYzAsMC0wLjEsMC4xLTAuMiwwLjFjLTAuMSwwLTAuMSwwLTAuMiwwLjFjLTAuMSwwLTAuMSwwLTAuMiwwYy0wLjMsMC0wLjUtMC4xLTAuNy0wLjNjLTAuMS0wLjEtMC4yLTAuMi0wLjItMC4zDQoJQzEzLDIyLjMsMTMsMjIuMSwxMywyMmMwLTAuMSwwLTAuMSwwLTAuMmMwLTAuMSwwLTAuMSwwLjEtMC4yYzAtMC4xLDAtMC4xLDAuMS0wLjJjMC0wLjEsMC4xLTAuMSwwLjEtMC4xYzAuMi0wLjIsMC42LTAuMywwLjktMC4zDQoJYzAuMSwwLDAuMSwwLDAuMiwwLjFjMC4xLDAsMC4xLDAuMSwwLjIsMC4xYzAuMSwwLDAuMSwwLjEsMC4yLDAuMWMwLDAsMC4xLDAuMSwwLjEsMC4xYzAsMC4xLDAuMSwwLjEsMC4xLDAuMmMwLDAuMSwwLDAuMSwwLjEsMC4yDQoJQzE1LDIxLjksMTUsMjEuOSwxNSwyMnogTTUsMjJjMC0wLjEsMC0wLjMsMC4xLTAuNGMwLTAuMSwwLjEtMC4yLDAuMi0wLjNjMC4yLTAuMiwwLjYtMC4zLDAuOS0wLjNjMC4xLDAsMC4xLDAsMC4yLDAuMQ0KCWMwLjEsMCwwLjEsMC4xLDAuMiwwLjFjMCwwLDAuMSwwLjEsMC4yLDAuMWMwLjEsMC4xLDAuMiwwLjIsMC4yLDAuM0M3LDIxLjcsNywyMS45LDcsMjJjMCwwLjMtMC4xLDAuNS0wLjMsMC43YzAsMC0wLjEsMC4xLTAuMiwwLjENCgljLTAuMSwwLTAuMSwwLjEtMC4yLDAuMWMtMC4xLDAtMC4xLDAtMC4yLDAuMWMtMC4xLDAtMC4xLDAtMC4yLDBjLTAuMywwLTAuNS0wLjEtMC43LTAuM0M1LjEsMjIuNSw1LDIyLjMsNSwyMnogTTgsMjZINw0KCWMtMC42LDAtMS0wLjQtMS0xczAuNC0xLDEtMWgxYzAuNiwwLDEsMC40LDEsMVM4LjYsMjYsOCwyNnogTTEwLjksMjIuNGMwLDAuMSwwLDAuMS0wLjEsMC4yYzAsMC0wLjEsMC4xLTAuMSwwLjENCglDMTAuNSwyMi45LDEwLjMsMjMsMTAsMjNjLTAuMSwwLTAuMywwLTAuNC0wLjFjLTAuMS0wLjEtMC4yLTAuMS0wLjMtMC4yYzAtMC4xLTAuMS0wLjEtMC4xLTAuMWMwLTAuMS0wLjEtMC4xLTAuMS0wLjINCgljMC0wLjEsMC0wLjEtMC4xLTAuMmMwLTAuMSwwLTAuMSwwLTAuMmMwLTAuMywwLjEtMC41LDAuMy0wLjdjMC4xLTAuMSwwLjItMC4yLDAuMy0wLjJjMC40LTAuMiwwLjgtMC4xLDEuMSwwLjINCgljMC4yLDAuMiwwLjMsMC40LDAuMywwLjdjMCwwLjEsMCwwLjEsMCwwLjJDMTEsMjIuMywxMSwyMi4zLDEwLjksMjIuNHogTTIwLDI2aC04Yy0wLjYsMC0xLTAuNC0xLTFzMC40LTEsMS0xaDhjMC42LDAsMSwwLjQsMSwxDQoJUzIwLjYsMjYsMjAsMjZ6IE0yMi45LDIyLjRjMCwwLjEsMCwwLjEtMC4xLDAuMmMwLDAtMC4xLDAuMS0wLjEsMC4xYzAsMC0wLjEsMC4xLTAuMiwwLjFjMCwwLTAuMSwwLjEtMC4yLDAuMWMtMC4xLDAtMC4xLDAtMC4yLDAuMQ0KCWMtMC4xLDAtMC4xLDAtMC4yLDBjLTAuMSwwLTAuMSwwLTAuMiwwYy0wLjEsMC0wLjEsMC0wLjItMC4xYy0wLjEsMC0wLjEtMC4xLTAuMi0wLjFjMCwwLTAuMS0wLjEtMC4xLTAuMWMwLTAuMS0wLjEtMC4xLTAuMS0wLjENCgljMC0wLjEtMC4xLTAuMS0wLjEtMC4yYzAtMC4xLDAtMC4xLTAuMS0wLjJjMC0wLjEsMC0wLjEsMC0wLjJjMC0wLjMsMC4xLTAuNSwwLjMtMC43YzAsMCwwLjEtMC4xLDAuMS0wLjFjMC4xLDAsMC4xLTAuMSwwLjItMC4xDQoJYzAuMSwwLDAuMSwwLDAuMi0wLjFjMC4xLDAsMC4zLDAsMC40LDBjMC4xLDAsMC4xLDAsMC4yLDAuMWMwLjEsMCwwLjEsMC4xLDAuMiwwLjFjMC4xLDAsMC4xLDAuMSwwLjIsMC4xYzAuMiwwLjIsMC4zLDAuNCwwLjMsMC43DQoJYzAsMC4xLDAsMC4xLDAsMC4yQzIzLDIyLjMsMjMsMjIuMywyMi45LDIyLjR6IE0yNSwyNmgtMWMtMC42LDAtMS0wLjQtMS0xczAuNC0xLDEtMWgxYzAuNiwwLDEsMC40LDEsMVMyNS42LDI2LDI1LDI2eiBNMjYuNywyMi43DQoJQzI2LjUsMjIuOSwyNi4zLDIzLDI2LDIzYy0wLjEsMC0wLjEsMC0wLjIsMGMtMC4xLDAtMC4xLDAtMC4yLTAuMWMtMC4xLDAtMC4xLTAuMS0wLjItMC4xYy0wLjEsMC0wLjEtMC4xLTAuMi0wLjENCglDMjUuMSwyMi41LDI1LDIyLjMsMjUsMjJjMC0wLjEsMC0wLjMsMC4xLTAuNGMwLTAuMSwwLjEtMC4yLDAuMi0wLjNjMCwwLDAuMS0wLjEsMC4yLTAuMWMwLDAsMC4xLTAuMSwwLjItMC4xYzAuMSwwLDAuMSwwLDAuMi0wLjENCgljMC4zLTAuMSwwLjcsMCwwLjksMC4zYzAuMiwwLjIsMC4zLDAuNCwwLjMsMC43QzI3LDIyLjMsMjYuOSwyMi41LDI2LjcsMjIuN3oiLz4NCjwvc3ZnPg0K",
+      "name": "PhysicsCar3DKeyMapper",
+      "previewIconUrl": "https://asset-resources.gdevelop.io/public-resources/Icons/Glyphster Pack/Master/SVG/Computers and Hardware/3e5871434a72821bf3ecb44a6857e62a438cf23dc8f95966f56ae97e95315468_Computers and Hardware_keyboard.svg",
+      "shortDescription": "3D car keyboard controls.",
+      "version": "1.0.1",
+      "description": "3D physics car keyboard controls.",
+      "origin": {
+        "identifier": "PhysicsCar3DKeyMapper",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "3d"
+      ],
+      "authorIds": [
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Control a 3D physics car with a keyboard.",
+          "fullName": "3D car keyboard mapper",
+          "name": "PhysicsCar3DKeyboardMapper",
+          "objectType": "",
+          "quickCustomizationVisibility": "hidden",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Physics3D::PhysicsCar3D::SimulateBackwardKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "PhysicsCar3D"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Up"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Physics3D::PhysicsCar3D::SimulateForwardKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "PhysicsCar3D"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Physics3D::PhysicsCar3D::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "PhysicsCar3D"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Physics3D::PhysicsCar3D::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "PhysicsCar3D"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "HandBrake"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Physics3D::PhysicsCar3D::SimulateHandBrakeKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "PhysicsCar3D"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "PhysicsCar3DKeyMapper::PhysicsCar3DKeyboardMapper",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "3D physics car",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "Physics3D::PhysicsCar3D"
+              ],
+              "name": "PhysicsCar3D"
+            },
+            {
+              "value": "Space",
+              "type": "KeyboardKey",
+              "label": "Hand brake key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "HandBrake"
+            },
+            {
+              "value": "Up",
+              "type": "KeyboardKey",
+              "label": "Up key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Up"
+            },
+            {
+              "value": "Left",
+              "type": "KeyboardKey",
+              "label": "Left key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Left"
+            },
+            {
+              "value": "Down",
+              "type": "KeyboardKey",
+              "label": "Down key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Down"
+            },
+            {
+              "value": "Right",
+              "type": "KeyboardKey",
+              "label": "Right key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Right"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
+    {
+      "author": "westboy, daliyoucefmedakram@gmail.com, @bouh",
+      "category": "User interface",
+      "extensionNamespace": "",
+      "fullName": "Auto typing animation for text (\"typewriter\" effect)",
+      "gdevelopVersion": ">=5.5.222",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXR5cGV3cml0ZXIiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAgMTNIMTZDMTYgMTQuMSAxNS4xIDE1IDE0IDE1SDEwQzguOSAxNSA4IDE0LjEgOCAxM0g0TDIgMThWMjBDMiAyMS4xIDIuOSAyMiA0IDIySDIwQzIxLjEgMjIgMjIgMjEuMSAyMiAyMFYxOE02IDIwQzUuMTEgMjAgNC42NiAxOC45MiA1LjI5IDE4LjI5QzUuOTIgMTcuNjYgNyAxOC4xMSA3IDE5QzcgMTkuNTUgNi41NSAyMCA2IDIwTTEwIDIwQzkuMTEgMjAgOC42NiAxOC45MiA5LjI5IDE4LjI5QzkuOTIgMTcuNjYgMTEgMTguMTEgMTEgMTlDMTEgMTkuNTUgMTAuNTUgMjAgMTAgMjBNMTQgMjBDMTMuMTEgMjAgMTIuNjYgMTguOTIgMTMuMjkgMTguMjlDMTMuOTIgMTcuNjYgMTUgMTguMTEgMTUgMTlDMTUgMTkuNTUgMTQuNTUgMjAgMTQgMjBNMTggMjBDMTcuMTEgMjAgMTYuNjYgMTguOTIgMTcuMjkgMTguMjlDMTcuOTIgMTcuNjYgMTkgMTguMTEgMTkgMTlDMTkgMTkuNTUgMTguNTUgMjAgMTggMjBNMTggMTBWM0g2VjEwSDNWMTJIMjFWMTBNOCA1SDE2VjZIOE04IDdIMTRWOEg4IiAvPjwvc3ZnPg==",
+      "name": "AutoTyping",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/typewriter.svg",
+      "shortDescription": "Reveal a text one letter after the other.",
+      "version": "2.2.0",
+      "description": [
+        "Reveal a text one letter after the other (a \"typewriter\" effect).",
+        "",
+        "It can be used for dialogue scenes or visual novels on Text and Bitmap Text objects.",
+        "",
+        "The top-down RPG example uses this extension ([open the project online](https://editor.gdevelop.io/?project=example://top-down-rpg))."
+      ],
+      "origin": {
+        "identifier": "AutoTyping",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "text",
+        "bbtext",
+        "dialogue",
+        "visual novel",
+        "autotyping",
+        "bitmap"
+      ],
+      "authorIds": [
+        "2OwwM8ToR9dx9RJ2sAKTcrLmCB92",
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1",
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Reveal a text one letter after the other.",
+          "fullName": "Auto typing text",
+          "name": "AutoTyping",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "FullText",
+                        "=",
+                        "Object.Text::Value()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AutoTyping::AutoTyping::RestartFromBeginning"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::Value"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Text",
+                        "!=",
+                        "TypedText"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "FullText",
+                        "=",
+                        "Object.Text::Value()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AutoTyping::AutoTyping::RestartFromBeginning"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "CharacterJustAdded",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CompareObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\"",
+                        ">=",
+                        "Interval"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "CharacterJustAdded",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetStringVariable"
+                          },
+                          "parameters": [
+                            "NextCharacter",
+                            "=",
+                            "StrAt(FullText, StrLength(TypedText))"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "StringVariable"
+                              },
+                              "parameters": [
+                                "NextCharacter",
+                                "=",
+                                "\" \""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "AutoTyping::AutoTyping::ClearForcedLineBreak"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                ""
+                              ]
+                            }
+                          ],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "AutoTyping::AutoTyping::IsNextWordWrapped"
+                                  },
+                                  "parameters": [
+                                    "Object",
+                                    "Behavior",
+                                    ""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetStringVariable"
+                                  },
+                                  "parameters": [
+                                    "NextCharacter",
+                                    "=",
+                                    "NewLine()"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetStringVariable"
+                              },
+                              "parameters": [
+                                "TypedText",
+                                "+",
+                                "NextCharacter"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Text",
+                                "=",
+                                "TypedText"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "variables": [
+                        {
+                          "folded": true,
+                          "name": "NextCharacter",
+                          "type": "string",
+                          "value": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AutoTyping::AutoTyping::IsFinished"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "RemoveTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"__AutoTyping.WriteTimer\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetStringVariable"
+                          },
+                          "parameters": [
+                            "TypedText",
+                            "=",
+                            "FullText"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Text",
+                            "=",
+                            "TypedText"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "Is next word wrapped",
+              "functionType": "Condition",
+              "name": "IsNextWordWrapped",
+              "private": true,
+              "sentence": "_PARAM0_ next word is wrapped",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Temporary add the next word and check if it's adding a new line."
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Height",
+                        "=",
+                        "Object.Height()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Text",
+                        "=",
+                        "SubStr(FullText, 0, StrFindFrom(FullText, \" \", StrLength(TypedText) + 1))"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "Height",
+                            "<",
+                            "Object.Height()"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetReturnBoolean"
+                          },
+                          "parameters": [
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Text",
+                            "=",
+                            "TypedText"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "Height",
+                      "type": "number",
+                      "value": 0
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "Clear forced line breaks",
+              "functionType": "Action",
+              "name": "ClearForcedLineBreak",
+              "private": true,
+              "sentence": "Clear forced line breaks in _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "TypedText",
+                        "=",
+                        "SubStr(FullText, 0, StrLength(TypedText))"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDeActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "UnPauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the full text has been typed.",
+              "fullName": "Finished typing",
+              "functionType": "Condition",
+              "name": "IsFinished",
+              "sentence": "_PARAM0_ finished typing",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "StrLength(TypedText)",
+                        "=",
+                        "StrLength(FullText)"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if a character has just been typed. Useful for triggering sound effects.",
+              "fullName": "Has just typed",
+              "functionType": "Condition",
+              "name": "HasJustTyped",
+              "sentence": "_PARAM0_ has just typed a character",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "CharacterJustAdded",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Restart typing from the beginning of text. The autotyping also start automatically when a new text is set for the object.",
+              "fullName": "Restart typing from the beginning",
+              "functionType": "Action",
+              "name": "RestartFromBeginning",
+              "sentence": "Restart typing from the beginning on _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "TypedText",
+                        "=",
+                        "\"\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Text",
+                        "=",
+                        "\"\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "BehaviorActivated"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Jump to a specific position in the text. Positions start at \"0\" and increase by one for every character.",
+              "fullName": "Show Nth first characters",
+              "functionType": "Action",
+              "name": "JumpToPosition",
+              "sentence": "Show _PARAM2_ first characters on _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "TypedText",
+                        "+",
+                        "SubStr(FullText, 0, CharacterIndex)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Text",
+                        "=",
+                        "TypedText"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Character position",
+                  "name": "CharacterIndex",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Show the full text.",
+              "fullName": "Show the full text",
+              "functionType": "Action",
+              "name": "ShowFullText",
+              "sentence": "Show the full text on _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetStringVariable"
+                      },
+                      "parameters": [
+                        "TypedText",
+                        "+",
+                        "FullText"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Text",
+                        "=",
+                        "TypedText"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RemoveTimer"
+                      },
+                      "parameters": [
+                        "",
+                        "\"__AutoTyping.WriteTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "the time between characters beign typed.",
+              "fullName": "Time between characters",
+              "functionType": "ExpressionAndCondition",
+              "name": "Interval",
+              "sentence": "the time between characters",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Interval"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "ActionWithOperator",
+              "getterName": "Interval",
+              "name": "SetInterval",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "Interval",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "AutoTyping::AutoTyping",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "Text capability",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "TextContainerCapability::TextContainerBehavior"
+              ],
+              "name": "Text"
+            },
+            {
+              "value": "0.05",
+              "type": "Number",
+              "unit": "Second",
+              "label": "Time between characters",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Interval"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Detect if a new text character was just displayed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "CharacterJustAdded"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "FullText"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "TypedText"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
     }
   ],
   "externalLayouts": [
@@ -37324,6 +39462,5 @@
       "instances": [],
       "editionSettings": {}
     }
-  ],
-  "externalSourceFiles": []
+  ]
 }
